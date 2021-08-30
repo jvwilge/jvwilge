@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+This page contains links to articles I've written.
+If you use (parts of) an article please add a reference, thank you!
 
-You can use the [editor on GitHub](https://github.com/jvwilge/jvwilge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+----
+### 2021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- - [Unit testing your MapStruct mapper for omitted parameters - EasyRandom to the rescue](mapstruct-easyrandom.md) -->
 
-### Markdown
+### 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Running your java integration tests with Gradle and docker-compose with only one command (optionally with Bitbucket Pipelines)
+](https://vanwilgenburg.wordpress.com/2020/09/02/docker-compose-gradle-bitbucket/)
+- [Using a ConnectableFlux to do background batching on elasticsearch](https://vanwilgenburg.wordpress.com/2020/01/09/connectableflux-with-elasticsearch/)
 
-```markdown
-Syntax highlighted code block
+### 2019
 
-# Header 1
-## Header 2
-### Header 3
+- [Running your elasticsearch integration tests with JUnit 5, Karate and TestContainers (Docker)](https://vanwilgenburg.wordpress.com/2019/07/08/elasticsearch-junit5-karate-testcontainers/)
+- [How to remotely reload classes with Spring Developer Tools without opening extra ports](https://vanwilgenburg.wordpress.com/2019/06/03/spring-dev-tools/)
+- [Writing integration tests for CORS headers (with Karate)](https://vanwilgenburg.wordpress.com/2019/05/03/writing-integration-tests-for-cors-headers-with-karate/)
+- [Using ZAP-proxy and nginx to debug and tamper with HTTP traffic – Emulate timeouts and other unexpected behaviour](https://vanwilgenburg.wordpress.com/2019/01/22/embedded-elasticsearch-junit5-spring-boot/)
 
-- Bulleted
-- List
+<!--
+[2018]() | [2017]() | [2016]() | [2015]() | [2014]() | [2013]()
+---
+-->
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jvwilge/jvwilge/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+----
+Earlier articles can be found on my old [wordpress site](https://vanwilgenburg.wordpress.com/)
